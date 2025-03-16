@@ -1,0 +1,15 @@
+.board{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.board-row1{
+  display: flex;
+}
+
+.square{
+height: 50px;
+width: 50px;
+margin: 1px;
+font-size: 12px;
+}
